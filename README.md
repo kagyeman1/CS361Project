@@ -35,7 +35,7 @@ HOW TO RECEIVE DATA USING MY MICROSERVICE
 
 2)Once contact has been made, your application will receive the return reply from my microservice.
 
-3)Next, my microservice will then send back a csv url to your application.
+3)Next, my microservice will then send back a URL to a .csv to your application.
 
 4)Once you receive the URL, you can then can manipulate the data however you want. 
 
